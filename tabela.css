@@ -1,0 +1,27 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    background-color: rgb(39, 39, 39);
+    color: rgb(252, 240, 220);
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 255%;
+}
+table{
+    text-align: justify;
+    font-size: 150%;
+}
+tr{
+    padding: 15%;
+}
+.nome{
+    background-color: rgb(73, 73, 73);
+}
+h2{
+    font-size: 100%;
+}
